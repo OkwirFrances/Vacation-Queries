@@ -1,0 +1,48 @@
+
+
+
+.block{
+  border: 2px solid blue;
+}
+
+h2 {
+  color: #6610f2;
+}
+
+
+
+body {
+  font-family:
+  font-weight: normal;
+  font-size: 1.8em;
+  background-color: black;
+  color: white;
+}
+
+#vacation-qtn, #load {
+  margin-top: 20px;
+}
+
+#vac1, #vac2, #vac3, #vac4, #vac5, #loading, #load{
+  text-align: center;
+  display: none;
+}
+
+#load{
+  color: yellow;
+}
+
+#load img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+#vac1 {
+  font-family:
+}
+
+#vac1 img, #vac2 img, #vac3 img, #vac4 img, #vac5 img {
+  text-align: center;
+  max-height: 1000px;
+  max-width: 1000px;
+}
