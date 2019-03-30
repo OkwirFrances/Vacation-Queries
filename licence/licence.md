@@ -1,6 +1,6 @@
 outbox License
 
-Copyright (c) [year] [okwirfrancis]
+Copyright (c) [2019] [okwirfrancis]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
